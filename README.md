@@ -10,16 +10,16 @@ DEVELOPER
 I started programming at the age of 17 and now I am studying and coding. I started programming with C, then Python, Java. Now I am able to design a website with HTML, CSS and Javascript. Currently I am working on Flutter.
 
 * 🌍  I'm from INDIA 
-* 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/lokeshsharma1703/)
-* ✉️  You can contact me at [lokeshsharma17032003@gmail.com](mailto:lokeshsharma17032003@gmail.com)
+* 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/aman-kumar-245653200)
+* ✉️  You can contact me at [tg81tomar@gmail.com](mailto:tg81tomar@gmail.com)
 * 🚀  I'm currently working on [Flutter](http://https://flutter.dev/)
 * 🧠  I'm learning Web Development
 
-<a href="(https://twitter.com/Lokesh1703)" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Lokesh1703?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
+<a href="(https://twitter.com/T_o_m_a_r)" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/T_o_m_a_r?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
 /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="[https://www.github.com/Lokeshsharma1703](https://github.com/Lokeshsharma1703)" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Lokeshsharma1703?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+<a href="[https://github.com/Amantomar81](https://github.com/Amantomar81)" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Amantomar81?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 <br/><br/>
 <!-- 
 ## My Github Stats:
@@ -28,9 +28,9 @@ src="https://img.shields.io/github/followers/Lokeshsharma1703?logo=github&style=
 
 <!-- <img  align="center" width="700" src="https://metrics.lecoq.io/Amantomar81?template=classic&isocalendar=1&languages=1&stars=1&followup=1&achievements=1&introduction=1&people=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=Asia%2FCalcutta)"> -->
 
-<!-- ![Metrics](https://metrics.lecoq.io/rajput-hemant?template=classic&isocalendar=1&languages=1&stars=1&followup=1&achievements=1&people=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta) -->
+<!-- ![Metrics](https://metrics.lecoq.io/Amantomar81?template=classic&isocalendar=1&languages=1&stars=1&followup=1&achievements=1&people=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta) -->
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amantomar81&theme=radical"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lokeshsharma1703&show_icons=true&locale=en&layout=compact&theme=radical">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amantomar81&theme=radical"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amantomar81&show_icons=true&locale=en&layout=compact&theme=radical">
 <br/><br/><br/>
 ### Skills
 ----------
@@ -65,12 +65,11 @@ src="https://img.shields.io/github/followers/Lokeshsharma1703?logo=github&style=
 </p>
 
 <!--
-**Lokeshsharma1703/Lokeshsharma1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Amantomar81/Amantomar81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
