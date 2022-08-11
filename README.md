@@ -52,8 +52,8 @@ src="https://img.shields.io/github/followers/Amantomar81?logo=github&style=for-t
 -----------
 
 <p align="left"> <a href="https://www.github.com/Amantomar81" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/lokesh_sharma1703/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Lokesh1703" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;</p>
+<a href="https://www.instagram.com/mr.tomar81/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/T_o_m_a_r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;</p>
 
 <br/>
 <p align="center" >
