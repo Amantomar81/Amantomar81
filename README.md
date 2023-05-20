@@ -12,8 +12,8 @@ I started programming at the age of 17 and now I am studying and coding. I start
 * 🌍  I'm from INDIA 
 * 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/aman-kumar-245653200)
 * ✉️  You can contact me at [tg81tomar@gmail.com](mailto:tg81tomar@gmail.com)
-* 🚀  I'm currently working on [Flutter](http://https://flutter.dev/)
-* 🧠  I'm learning Web Development
+* 🚀  I'm currently working on [MERN Stack](http://https://react.dev)
+* 🧠  I'm learning Web Development.
 
 <a href="(https://twitter.com/T_o_m_a_r)" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/T_o_m_a_r?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
